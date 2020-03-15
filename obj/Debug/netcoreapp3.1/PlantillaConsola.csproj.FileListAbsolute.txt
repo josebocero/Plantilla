@@ -9,3 +9,14 @@ C:\Proyectos_core\PlantillaConsola\bin\Debug\netcoreapp3.1\PlantillaConsola.dll
 C:\Proyectos_core\PlantillaConsola\bin\Debug\netcoreapp3.1\PlantillaConsola.pdb
 C:\Proyectos_core\PlantillaConsola\obj\Debug\netcoreapp3.1\PlantillaConsola.dll
 C:\Proyectos_core\PlantillaConsola\obj\Debug\netcoreapp3.1\PlantillaConsola.pdb
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.exe
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.deps.json
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.runtimeconfig.json
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.runtimeconfig.dev.json
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.dll
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\bin\Debug\netcoreapp3.1\PlantillaConsola.pdb
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\obj\Debug\netcoreapp3.1\PlantillaConsola.csprojAssemblyReference.cache
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\obj\Debug\netcoreapp3.1\PlantillaConsola.AssemblyInfoInputs.cache
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\obj\Debug\netcoreapp3.1\PlantillaConsola.AssemblyInfo.cs
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\obj\Debug\netcoreapp3.1\PlantillaConsola.dll
+C:\ProyectosNetCore\PlantillaConsola\Plantilla\obj\Debug\netcoreapp3.1\PlantillaConsola.pdb

@@ -63,7 +63,7 @@ namespace PlantillaConsola
                 Write("═");//alt + 205
             }
             WriteLine("╣");//alt + 185
-            ForegroundColor = ConsoleColor.DarkGreen;
+            ForegroundColor = ConsoleColor.DarkBlue;
             for(int i=0;i<24;i++){
                 Write("║");//alt + 186
                 SetCursorPosition(89,5+i);
